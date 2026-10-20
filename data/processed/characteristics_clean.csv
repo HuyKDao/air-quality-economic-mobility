@@ -1,0 +1,59 @@
+county,Median_Household_Income_1990,Avg_Job_Growth_2004_2013,Fraction_Nonwhite_2010,Population_Density_2010
+Alameda County,74280.0,0.0072,0.6593,2044.0
+Alpine County,45222.0,-0.0037,0.2749,1.591
+Amador County,55000.0,-0.0227,0.2039,64.06
+Butte County,43488.0,0.0012,0.2481,134.4
+Calaveras County,52410.0,-0.0022,0.1646,44.68
+Colusa County,45761.0,0.0121,0.602,18.61
+Contra Costa County,90941.0,0.004,0.5225,1465.0
+Del Norte County,42149.0,-0.0078,0.3529,28.43
+El Dorado County,72145.0,-0.0042,0.2009,106.0
+Fresno County,53552.0,0.0053,0.6727,156.2
+Glenn County,41889.0,0.0106,0.4411,21.4
+Humboldt County,44407.0,0.0028,0.2278,37.73
+Imperial County,43670.0,0.0194,0.8629,41.79
+Inyo County,45742.0,-0.0013,0.337,1.822
+Kern County,58093.0,0.0228,0.6144,103.3
+Kings County,47583.0,0.007,0.6478,110.1
+Lake County,42803.0,0.0119,0.2587,51.47
+Lassen County,48598.0,-0.0149,0.3331,7.684
+Los Angeles County,67619.0,0.0009,0.7221,2420.0
+Madera County,51094.0,-0.0022,0.6197,70.59
+Marin County,90715.0,0.0068,0.2717,485.1
+Mariposa County,44795.0,-0.0091,0.1676,12.6
+Mendocino County,48395.0,-0.0102,0.3141,25.05
+Merced County,47320.0,0.0133,0.681,132.2
+Modoc County,39816.0,-0.0203,0.2103,2.472
+Mono County,59130.0,-0.0031,0.3179,4.658
+Monterey County,62596.0,0.0023,0.6713,126.5
+Napa County,68977.0,-0.0001,0.4361,182.4
+Nevada County,60738.0,-0.0046,0.1345,103.1
+Orange County,88339.0,-0.003,0.5587,3808.0
+Placer County,73206.0,0.0081,0.2386,247.6
+Plumas County,43568.0,-0.0303,0.1495,7.837
+Riverside County,64528.0,0.0174,0.6031,303.8
+Sacramento County,66512.0,-0.0004,0.5157,1471.0
+San Benito County,66881.0,0.014,0.6173,39.8
+San Bernardino County,64434.0,0.0038,0.6671,101.5
+San Diego County,69106.0,0.0011,0.5154,735.8
+San Francisco County,62927.0,0.024,0.5809,17178.0
+San Joaquin County,59793.0,0.0074,0.6412,492.6
+San Luis Obispo County,58531.0,0.0046,0.2891,81.74
+San Mateo County,89516.0,0.0158,0.5774,1602.0
+Santa Barbara County,66106.0,0.0004,0.5208,155.0
+Santa Clara County,90850.0,0.0188,0.6481,1381.0
+Santa Cruz County,68727.0,-0.0051,0.4039,589.4
+Shasta County,48297.0,-0.0152,0.1759,46.94
+Sierra County,42914.0,-0.0132,0.1188,3.399
+Siskiyou County,40122.0,-0.0087,0.2053,7.152
+Solano County,76735.0,-0.0057,0.592,503.0
+Sonoma County,67040.0,-0.0043,0.3386,307.1
+Stanislaus County,55076.0,0.0036,0.5327,344.2
+Sutter County,54237.0,0.0073,0.4956,157.3
+Tehama County,41586.0,-0.0061,0.2814,21.52
+Trinity County,39185.0,-0.0022,0.1645,4.336
+Tulare County,45309.0,0.0089,0.6745,91.66
+Tuolumne County,49499.0,-0.0224,0.1813,24.93
+Ventura County,84075.0,0.0027,0.5131,446.7
+Yolo County,56369.0,0.0079,0.5009,197.9
+Yuba County,40783.0,0.0082,0.4122,114.2
